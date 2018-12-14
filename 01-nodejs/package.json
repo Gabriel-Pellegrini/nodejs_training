@@ -1,0 +1,23 @@
+{
+  "name": "treinamento-nodebr",
+  "version": "1.0.0",
+  "description": "This is a project from NobeBr training",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Pellegrini/nodejs_training.git"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Gabriel Pellegrini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Pellegrini/nodejs_training/issues"
+  },
+  "homepage": "https://github.com/Gabriel-Pellegrini/nodejs_training#readme"
+}
